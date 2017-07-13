@@ -1,0 +1,4 @@
+# Amazon
+
+
+Static Page
